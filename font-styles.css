@@ -1,0 +1,129 @@
+#font-table, .font-row td {
+    border: 2px solid #e3e3e3;
+    border-collapse: collapse;
+    font-size: 24px;
+}
+.font-row td {
+    padding: 5px 20px;
+}
+
+.roboto-thin100 {
+    font-family: 'roboto', sans-serif;
+    font-weight: 100;
+}
+.roboto-light300 {
+    font-family: 'roboto', sans-serif;
+    font-weight: 300;
+}
+.roboto-regular400 {
+    font-family: 'roboto', sans-serif;
+    font-weight: 400;
+}
+.roboto-medium500 {
+    font-family: 'roboto', sans-serif;
+    font-weight: 500;
+}
+.roboto-bold700 {
+    font-family: 'roboto', sans-serif;
+    font-weight: 700;
+}
+.roboto-black900 {
+    font-family: 'roboto', sans-serif;
+    font-weight: 900;
+}
+
+.oswald-extralight200 {
+    font-family:'oswald', sans-serif;
+    font-weight: 200;
+}
+.oswald-light300 {
+    font-family: 'oswald', sans-serif;
+    font-weight: 300;
+}
+.oswald-regular400 {
+    font-family: 'oswald', sans-serif;
+    font-weight: 400;
+}
+.oswald-medium500 {
+    font-family: 'oswald', sans-serif;
+    font-weight: 500;
+}
+.oswald-semibold600 {
+    font-family: 'oswald', sans-serif;
+    font-weight: 600;
+}
+.oswald-bold700 {
+    font-family: 'oswald', sans-serif;
+    font-weight: 700;
+}
+
+.playfairdisplay-regular400 {
+    font-family:'playfair display', serif;
+    font-weight: 400;
+}
+.playfairdisplay-medium500 {
+    font-family:'playfair display', serif;
+    font-weight: 500;
+}
+.playfairdisplay-semibold600 {
+    font-family:'playfair display', serif;
+    font-weight: 600;
+}
+.playfairdisplay-bold700 {
+    font-family:'playfair display', serif;
+    font-weight: 700;
+}
+.playfairdisplay-extrabold800 {
+    font-family:'playfair display', serif;
+    font-weight: 800;
+}
+.playfairdisplay-black900 {
+    font-family:'playfair display', serif;
+    font-weight: 900;
+}
+
+.dancingscript-regular400 {
+    font-family:'dancing script', serif;
+    font-weight: 400;
+}
+.dancingscript-medium500 {
+    font-family:'dancing script', serif;
+    font-weight: 500;
+}
+.dancingscript-semibold600 {
+    font-family:'dancing script', serif;
+    font-weight: 600;
+}
+.dancingscript-bold700 {
+    font-family:'dancing script', serif;
+    font-weight: 700;
+}
+
+.josefinslab-thin100 {
+    font-family: 'josefin slab', serif;
+    font-weight: 100;
+}
+.josefinslab-extralight200 {
+    font-family: 'josefin slab', serif;
+    font-weight: 200;
+}
+.josefinslab-light300 {
+    font-family: 'josefin slab', serif;
+    font-weight: 300;
+}
+.josefinslab-regular400 {
+    font-family: 'josefin slab', serif;
+    font-weight: 400;
+}
+.josefinslab-medium500 {
+    font-family: 'josefin slab', serif;
+    font-weight: 500;
+}
+.josefinslab-semibold600 {
+    font-family: 'josefin slab', serif;
+    font-weight: 600;
+}
+.josefinslab-bold700 {
+    font-family: 'josefin slab', serif;
+    font-weight: 700;
+}
